@@ -562,7 +562,7 @@ void main()
        printf("\n\n    5. Restaurant            ");
        printf("\n\n    6. Cancellation          ");
        printf("\n\n    7. Room Deallocation     ");
-       printf("\n\n    8. Exit                  ");
+       printf("\n\n    8. Quit                  ");
        scanf("%d",&ch);
        switch(ch)
         {
